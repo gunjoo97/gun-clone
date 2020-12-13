@@ -1,4 +1,10 @@
 /* 중복*/
-@import "중복/title.css";
+@import "중복/header.css";
 
 /*화면*/
+@import "스크린/성장과정.css";
+
+body {
+  color: #2e363e;
+  font-family: "Open Sans", sans-serif;
+}

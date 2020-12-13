@@ -1,0 +1,18 @@
+.birth__me {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.birth__me-photo img {
+  width: 300px;
+  height: 600px;
+  border-radius: 10px;
+}
+
+.birth__me-text {
+  font-size: 20px;
+  padding-top: 20px;
+}
